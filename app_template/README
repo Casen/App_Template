@@ -1,0 +1,10 @@
+This is a default rails app I made to use as a template for my projects. I tried using various different forks of Bort, but all of them had something wrong, and none of them were really right for me. If you find this useful, then enjoy!
+
+Details
+---------------------------
+Rails 2.3.2
+
+User Authentication with Authlogic and Open_id_authentication
+Jrails replaces prototype and scriptaculous
+Default layout created with Ryanb's nifty_layout generator
+Pagination using will_paginate

@@ -1,0 +1,11 @@
+<% title "New User" %>
+
+<%= render :partial => 'form' %>
+
+<%= link_to_function 'click' do |page|
+	page.visual_effect :switch_off, "test"
+	end %>
+<div id="test">
+	This is a really cool test paragraph to see if jquery works properly
+</div>
+
