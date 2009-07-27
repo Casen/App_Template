@@ -2,7 +2,7 @@ This is a default rails app I made to use as a template for my projects. I tried
 
 Details
 ---------------------------
-Rails 2.3.2
+Rails 2.3.3
 
 User Authentication with Authlogic and Open_id_authentication
 Jrails replaces prototype and scriptaculous

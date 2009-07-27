@@ -11,6 +11,7 @@
     <div id="container">
 	  <div id="user_nav">
 	  <% if current_user %>
+		 <%= "Hello #{current_user.username}"  %> |
 		<%= link_to "Edit Profile", edit_user_path(:current) %> | 
 		<%= link_to "logout", logout_path %>
 	  <% else %>
